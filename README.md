@@ -33,5 +33,7 @@ Assim como qualquer pessoa que não saiba nada de programação com uma calculad
 - utilizar a sua implementação como estudo de lógica de programação em Python
 
 Fontes: 
+
 https://www.correiobraziliense.com.br/app/noticia/mundo/2019/11/19/interna_mundo,807535/menino-de-12-anos-descobre-formula-matematica-que-ajuda-o-estudo-da-di.shtml
+
 https://www.westminsterunder.org.uk/chikas-test/
