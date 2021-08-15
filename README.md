@@ -1,5 +1,5 @@
 # Teste-de-Chika
- Programa que executa uma reprodução visual do Teste de Chika
+ Programa que executa uma reprodução visual do Teste de Chika em Python
  
 Em setembro de 2019, o jovem estudante nigeriano Chika Ofili, de apenas 12 anos, morador do Reino Unido, apresentou em sua escola um trabalho onde demonstrou ter descoberto uma metodologia rápida para testar se um número inteiro é divisível por 7.
 
